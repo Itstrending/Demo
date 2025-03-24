@@ -13,6 +13,6 @@ public class Murali {
 
 	public void coding()
 	{
-		System.out.println("I am coder");
+		System.out.println("I am coder and a tester");
 	}
 }
