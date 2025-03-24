@@ -1,2 +1,1 @@
-I am line one
-I am line two
+I removed both the line one and two
